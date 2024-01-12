@@ -1,0 +1,15 @@
+header{
+    & div{
+        height: 4rem;
+    }
+}
+.app-title {
+    color: #fff;
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 600;
+    letter-spacing: -5px;
+    background: -webkit-linear-gradient(#e77de2, #f8e8e8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

@@ -1,0 +1,15 @@
+.question-timer-component{
+position: absolute;    
+left: 50%;
+top: 8%;
+transform: translateX(-50%);
+
+}
+
+progress[value] {
+    width: 600px;
+    height: 30px;
+}
+progress {
+    accent-color: rgb(111, 0, 255);
+  }
